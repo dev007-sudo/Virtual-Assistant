@@ -23,6 +23,7 @@ const geminiResponse = async (command,assistantName, username) => {
         - "response": A short voice-friendly reply, e.g, "Sure, playing it now", "here
         what I found", "today is tuesday", etc.
 
+
         type meanings:
         - "general": if it's a factual or informational question.
         aur agar koi aisa question puche jiska answer tumhe pta
