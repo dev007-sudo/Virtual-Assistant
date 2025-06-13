@@ -55,7 +55,10 @@ Live Demo 🔗: [Click to Use the App](https://virtual-assistant-1-p3xa.onrender
 
 ![Chat Interface](https://github.com/dev007-sudo/Virtual-Assistant/blob/main/va2.PNG)
 
-![Chat Interface](https://github.com/dev007-sudo/Virtual-Assistant/blob/main/va2.PNG)
+![Chat Interface](https://github.com/dev007-sudo/Virtual-Assistant/blob/main/va3.PNG)
+![Chat Interface](https://github.com/dev007-sudo/Virtual-Assistant/blob/main/va3.PNG)
+![Chat Interface](https://github.com/dev007-sudo/Virtual-Assistant/blob/main/va3.PNG)
+![Chat Interface](https://github.com/dev007-sudo/Virtual-Assistant/blob/main/va3.PNG)
 
 ### Clone the project:
 ```bash
